@@ -1,37 +1,25 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Zelda: Ocarina Of Time Map
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
+![OcarinaOfTime-removebg-preview](https://user-images.githubusercontent.com/58089751/236870935-c1c462a1-87c2-4fd1-9aec-58372548d509.png)
 
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 2<br>
+**Conteúdo da Disciplina**: Grafos 2 <br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0032821  |  Lorenzo de Lima Alves dos Santos |
+| 19/0124989  |  Amanda Fernandes Custódio |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Projeto do curso de Projetos de algoritmos da matéria Grafos 2 para mostrar a menor rota entre as cidades do jogo Zelda: Ocarina Of Time, utilizando grafo, BFS e busca por pesos. 
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
+**Linguagem**: javascript<br>
+**Framework**: react js<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
